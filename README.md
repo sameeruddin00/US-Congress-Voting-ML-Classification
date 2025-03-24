@@ -1,6 +1,6 @@
 
 
-### **US Congress Voting Classification Using Machine Learning**  
+### **US Congress Voting Classification Using **  
 
 - **Objective**: Implemented **supervised machine learning** techniques to classify U.S. congresspersons as **Democrat (0) or Republican (1)** based on **voting records** from the U.S. Congressional Voting Records dataset.  
 
