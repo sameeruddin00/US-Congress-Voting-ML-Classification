@@ -14,5 +14,5 @@
 - **Results & Achievements**:  
   - **Logistic Regression** achieved the highest accuracy (**96.18%**), followed by **Decision Tree (94.66%)** and **Naive Bayes (92.37%)**.  
   - Cross-validation confirmed **Logistic Regression as the most reliable classifier**.  
-  - Visualized classifier performance using **bar charts, confusion matrices, and comparison heatmaps**.
+  - Visualized classifier performance using **bar charts, confusion matrices, and comparison heatmaps**
 
